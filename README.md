@@ -17,11 +17,11 @@ You can check out my twitter at https://twitter.com/ahmetloca or https://www.you
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetloca&show_icons=true&theme=cobalt)
 
-<p align="right">
+<p align="center">
 🅷🅸 🆃🅷🅴🆁🅴
   </p>
   
-<p align="right">
+<p align="center">
    ▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄<br>
    █▒▒░░░░░░░░░▒▒█<br>
     █░░█░░░░░█░░█<br>
