@@ -1,11 +1,11 @@
 
   I'm Ahmet from Turkey, and I do content on Design and Development. I really enjoy learning languages and frameworks like Vue and React. I also enjoy
-  ui, ux, wireframing and design in general. You can check out my twitter at https://twitter.com/ahmetloca or https://www.youtube.com/channel/UCxIHalpAJdjnU0_Z4g0QBIw
+  ui, ux, wireframing and design in general. 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetloca)](https://github.com/anuraghazra/github-readme-stats)
 
+You can check out my twitter at https://twitter.com/ahmetloca or https://www.youtube.com/channel/UCxIHalpAJdjnU0_Z4g0QBIw
 
 ---
 
@@ -16,6 +16,7 @@
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetloca&show_icons=true&theme=cobalt)
 
 <p align="center">
 🅷🅸 🆃🅷🅴🆁🅴
