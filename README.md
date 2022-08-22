@@ -17,6 +17,17 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetloca)
 
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [Sass/SCSS Nedir?]([https://evrentan.medium.com/localization-in-java-by-resourcebundle-library-137dc62c3bb4?source=rss-16e1fd38164------2](https://medium.com/@locaahmet/sass-ve-scss-nedir-f30c06c0f39a))
+- [CSS Grid Yapısı](https://evrentan.medium.com/javadoc-software-documentation-b028284377ce?source=rss-16e1fd38164------2)
+- [CSS3 | Flexbox Nedir?](https://evrentan.medium.com/builder-design-pattern-3f7a4fd1c0cb?source=rss-16e1fd38164------2)
+- [CSS | Position & z-index](https://evrentan.medium.com/java-reflection-api-97ff4c3d14f9?source=rss-16e1fd38164------2)
+- [User Agent Stylesheet, Normalize.css ve Display Nedir?](https://evrentan.medium.com/records-in-java-e8bb46a0a794?source=rss-16e1fd38164------2)
+<!-- BLOG-POST-LIST:END -->
+
+
 ---
 
 <h3 align="left">Connect with me:</h3>
