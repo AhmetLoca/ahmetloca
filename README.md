@@ -1,11 +1,21 @@
+<p align="left">
+🅷🅸 🆃🅷🅴🆁🅴
+  </p>
+  
+<p align="left">
+   ▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄<br>
+   █▒▒░░░░░░░░░▒▒█<br>
+    █░░█░░░░░█░░█<br>
+ ▄▄  █░░░▀█▀░░░█  ▄▄  <br>
+█░░█ ▀▄░░░░░░░▄▀ █░░█<br>
+</p>
+
 
   I'm Ahmet from Turkey, and I do content on Design and Development. I really enjoy learning languages and frameworks like Vue and React. I also enjoy
   ui, ux, wireframing and design in general. 
 
 
-
-
-You can check out my twitter at https://twitter.com/ahmetloca or https://www.youtube.com/channel/UCxIHalpAJdjnU0_Z4g0QBIw
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetloca&show_icons=true&theme=cobalt)
 
 ---
 
@@ -15,16 +25,5 @@ You can check out my twitter at https://twitter.com/ahmetloca or https://www.you
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetloca&show_icons=true&theme=cobalt)
 
-<p align="center">
-🅷🅸 🆃🅷🅴🆁🅴
-  </p>
-  
-<p align="center">
-   ▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄<br>
-   █▒▒░░░░░░░░░▒▒█<br>
-    █░░█░░░░░█░░█<br>
- ▄▄  █░░░▀█▀░░░█  ▄▄  <br>
-█░░█ ▀▄░░░░░░░▄▀ █░░█<br>
-</p>
+
