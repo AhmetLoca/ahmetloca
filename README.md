@@ -21,10 +21,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Sass/SCSS Nedir?](https://medium.com/@locaahmet/sass-ve-scss-nedir-f30c06c0f39a)
-- [CSS Grid Yapısı](https://evrentan.medium.com/javadoc-software-documentation-b028284377ce?source=rss-16e1fd38164------2)
-- [CSS3 | Flexbox Nedir?](https://evrentan.medium.com/builder-design-pattern-3f7a4fd1c0cb?source=rss-16e1fd38164------2)
-- [CSS | Position & z-index](https://evrentan.medium.com/java-reflection-api-97ff4c3d14f9?source=rss-16e1fd38164------2)
-- [User Agent Stylesheet, Normalize.css ve Display Nedir?](https://evrentan.medium.com/records-in-java-e8bb46a0a794?source=rss-16e1fd38164------2)
+- [CSS Grid Yapısı](https://medium.com/@locaahmet/css-grid-yap%C4%B1s%C4%B1-c4336d03df7)
+- [CSS3 | Flexbox Nedir?](https://medium.com/@locaahmet/css-flexbox-nedir-38aedad6aad1)
+- [CSS | Position & z-index](https://medium.com/@locaahmet/css-position-z-index-464f9faa9d3)
+- [User Agent Stylesheet, Normalize.css ve Display Nedir?](https://medium.com/@locaahmet/user-agent-stylesheet-normalize-css-ve-display-nedir-neden-%C3%BC%C3%A7%C3%BC-bir-arada-kanka-m%C4%B1-bunlar-bb26cc8a6e17)
 <!-- BLOG-POST-LIST:END -->
 
 
