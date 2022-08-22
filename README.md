@@ -15,14 +15,13 @@ You can check out my twitter at https://twitter.com/ahmetloca or https://www.you
 
 
 
-
-https://github-readme-stats.vercel.app/api?username=ahmetloca&show_icons=true&theme=cobalt
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetloca&show_icons=true&theme=cobalt)
 
 <p align="right">
 🅷🅸 🆃🅷🅴🆁🅴
   </p>
   
-<p align="center">
+<p align="right">
    ▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄<br>
    █▒▒░░░░░░░░░▒▒█<br>
     █░░█░░░░░█░░█<br>
