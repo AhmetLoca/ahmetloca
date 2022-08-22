@@ -1,8 +1,8 @@
-<p align="left">
+<p align="center">
 🅷🅸 🆃🅷🅴🆁🅴
   </p>
   
-<p align="left">
+<p align="center">
    ▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄<br>
    █▒▒░░░░░░░░░▒▒█<br>
     █░░█░░░░░█░░█<br>
