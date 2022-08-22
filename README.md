@@ -10,7 +10,7 @@
 █░░█ ▀▄░░░░░░░▄▀ █░░█<br>
 </p>
 
-
+---
 
   I'm Ahmet from Turkey, and I do content on Design and Development. I really enjoy learning languages and frameworks like Vue and React. I also enjoy
   ui, ux, wireframing and design in general. 
