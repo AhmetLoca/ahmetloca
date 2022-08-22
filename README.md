@@ -20,7 +20,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Sass/SCSS Nedir?][https://medium.com/@locaahmet/sass-ve-scss-nedir-f30c06c0f39a]
+- [Sass/SCSS Nedir?](https://medium.com/@locaahmet/sass-ve-scss-nedir-f30c06c0f39a)
 - [CSS Grid Yapısı](https://evrentan.medium.com/javadoc-software-documentation-b028284377ce?source=rss-16e1fd38164------2)
 - [CSS3 | Flexbox Nedir?](https://evrentan.medium.com/builder-design-pattern-3f7a4fd1c0cb?source=rss-16e1fd38164------2)
 - [CSS | Position & z-index](https://evrentan.medium.com/java-reflection-api-97ff4c3d14f9?source=rss-16e1fd38164------2)
