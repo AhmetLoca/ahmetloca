@@ -27,7 +27,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-###YouTube Videos
+### YouTube Videos
 
 
 ---
@@ -37,7 +37,7 @@
 
 ---
 
-<h3 align="left">Social Media:</h3>
+### Social Media
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmet-loca-901875167/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ahmetloca)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCxIHalpAJdjnU0_Z4g0QBIw)  
 
