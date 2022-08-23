@@ -17,7 +17,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetloca)
 
 
-### Blogs posts:
+### Blog posts:
 
 - [Sass/SCSS Nedir?](https://medium.com/@locaahmet/sass-ve-scss-nedir-f30c06c0f39a)
 - [CSS Grid Yapısı](https://medium.com/@locaahmet/css-grid-yap%C4%B1s%C4%B1-c4336d03df7)
