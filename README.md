@@ -11,8 +11,7 @@
 </p>
 
 
-  I'm Ahmet from Turkey, and I do content on Design and Development. I really enjoy learning languages and frameworks like Vue and React. I also enjoy
-  ui, ux, wireframing and design in general. 
+  I'm Ahmet from Turkey, and I do content on Design and Development. I really enjoy learning languages and frameworks like React.js and Vue.js. I also enjoy ui, ux, wireframing and design in general. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetloca)
 
